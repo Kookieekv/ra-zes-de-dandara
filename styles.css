@@ -1,0 +1,170 @@
+:root {
+    --cor-de-fundo: #f8f8f8;
+    --branco: #FFFFFF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+body {
+    background: #000000;
+    color: rgb(0, 0, 0);
+    margin: 0%;
+}
+
+header {
+    font-family: "Nerko One", cursive;
+    padding-top: 0%;
+    padding-right: 1%;
+    border-bottom: solid 3px rgb(97, 81, 69);
+    padding: 0%;
+    font-size: 20px;
+    color: rgb(68, 48, 48);
+}
+
+section {
+    background: rgb(97, 81, 69) ;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.chamada-2024 {
+    margin-right: 5%;
+}
+
+img {
+    height: 230px ;
+    width: 300px;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+ .categoria-mvs {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-mvs img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-mvs img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+
+.categoria-stages {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-stages img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-stages img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.titulos {
+    color: rgb(10, 10, 10);
+    background: rgb(97, 81, 69) ;
+    padding-bottom: 0%;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.categoria-games {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-games img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-games img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+
+
+.in {
+    padding-left: 1%;
+    padding-top: 1%;
+    height: 30px ;
+    width: 40px;
+}
+
+.tik {
+    padding-left: 1%;
+    padding-top: 1%;
+    height: 30px ;
+    width: 40px;
+}
+
+.CURIOSIDADES {
+    color: rgb(146, 128, 113);
+    background: rgb(0, 0, 0);
+    padding-inline: 1%;
+    padding-top: 100px;
+    padding-bottom: 0%;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.logo {
+    padding-top: 1%;
+    height: 50px ;
+    width: 60px;
+}
+
+.nome{
+    font-family: "Nerko One", cursive;
+    padding-top: 0%;
+    padding-right: 1%;
+    border-bottom: solid 3px rgb(97, 81, 69);
+    padding: 0%;
+    font-size: 20px;
+    color: rgb(68, 48, 48);
+}
+
+.insta {
+    padding-right: 1%;
+    padding-top: 1%;
+    height: 40px ;
+    width: 40px;
+}
+
+.tiktok {
+    padding-right: 1%;
+    padding-top: 1%;
+    height: 35px ;
+    width: 35px;
+}
+
+.gps {
+    color: rgb(146, 128, 113) ;
+    padding-left: 1%;
+    padding-top: 0%;
+    height: 40px ;
+    width: 40px;
+}
+
+.local{
+    padding-left: 1%;
+    color: rgb(146, 128, 113) ;
+}
