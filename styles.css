@@ -168,3 +168,11 @@ img {
     padding-left: 1%;
     color: rgb(146, 128, 113) ;
 }
+.redes {
+    color: rgb(146, 128, 113);
+    background: rgb(0, 0, 0);
+    padding-inline: 1%;
+    padding-top: 100px;
+    padding-bottom: 0%;
+    font-family: "Josefin Sans", sans-serif;
+}
