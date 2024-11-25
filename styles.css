@@ -143,14 +143,14 @@ img {
 }
 
 .insta {
-    padding-right: 1%;
+    padding-left: 1%;
     padding-top: 1%;
     height: 40px ;
     width: 40px;
 }
 
 .tiktok {
-    padding-right: 1%;
+    padding-left: 1%;
     padding-top: 1%;
     height: 35px ;
     width: 35px;
@@ -158,7 +158,7 @@ img {
 
 .gps {
     color: rgb(146, 128, 113) ;
-    padding-right: 1%;
+    padding-left: 1%;
     padding-top: 1%;
     height: 40px ;
     width: 40px;
